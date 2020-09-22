@@ -1,0 +1,10 @@
+body {
+  background: lightgrey;
+}
+
+#comments_box {
+  border: 1px solid darkgrey;
+  border-radius: 20px;
+  width: 900px;
+  min-height: 100px;
+}
